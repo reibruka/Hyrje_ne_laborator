@@ -1,0 +1,49 @@
+{
+  "report_title": "Lab Report 03",
+  "author": "Your Name",
+  "course": "Intro Lab",
+  "date": "2026-03-31",
+
+  "sections": [
+    {
+      "type": "introduction",
+      "content": "This report covers the objectives and implementation of Lab 03. The goal is to understand core concepts and apply them using code examples."
+    },
+    {
+      "type": "objectives",
+      "items": [
+        "Understand the problem requirements",
+        "Implement solutions using code",
+        "Analyze results"
+      ]
+    },
+    {
+      "type": "theory",
+      "content": "This section explains the theoretical background behind the lab, including key concepts and formulas used."
+    },
+    {
+      "type": "implementation",
+      "code_blocks": [
+        {
+          "language": "python",
+          "code": "def example_function(x):\n    return x * 2"
+        },
+        {
+          "language": "python",
+          "code": "result = example_function(5)\nprint(result)"
+        }
+      ]
+    },
+    {
+      "type": "results",
+      "output": [
+        "10"
+      ],
+      "analysis": "The function works correctly and returns the expected output."
+    },
+    {
+      "type": "conclusion",
+      "content": "The lab successfully demonstrated the implementation and testing of the required concepts."
+    }
+  ]
+}
